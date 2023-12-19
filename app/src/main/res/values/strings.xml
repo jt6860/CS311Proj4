@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CS311_U4_IP_JohnTorres</string>
+    <string name="output">Output:</string>
+    <string name="count_vowels">Count Vowels</string>
+    <string name="compare_strings">Compare Strings</string>
+    <string name="add_strings">Add Strings</string>
+    <string name="enter_second_string">Enter second string:</string>
+    <string name="enter_first_string">Enter first string:</string>
+</resources>
